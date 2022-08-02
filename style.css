@@ -510,19 +510,20 @@ footer .icon-logo {
 }
 
 #sai .contents-blk:nth-child(2) {
-  background: url(./about/images/gazou2.jpg) no-repeat center center / cover;
+  background: url(https://github.com/Kuman1105/SCENT.github.io/blob/main/about/gazou2.jpg?raw=true
+) no-repeat center center / cover;
 }
 
 #sai .contents-blk:nth-child(3) {
-  background: url(./about/images/gazou3.jpg) no-repeat center center / cover;
+  background: url(https://github.com/Kuman1105/SCENT.github.io/blob/main/about/gazou3.jpg?raw=true) no-repeat center center / cover;
 }
 
 #sai .contents-blk:nth-child(4) {
-  background: url(./about/images/gazou4.jpg) no-repeat center center / cover;
+  background: url(https://github.com/Kuman1105/SCENT.github.io/blob/main/about/gazou4.jpg?raw=true) no-repeat center center / cover;
 }
 
 #sai .contents-blk:nth-child(5) {
-  background: url(./about/images/gazou5.jpg) no-repeat center center / cover;
+  background: url(https://github.com/Kuman1105/SCENT.github.io/blob/main/about/gazou5.jpg?raw=true) no-repeat center center / cover;
 }
 
 #sai .contents-blk:last-child {
