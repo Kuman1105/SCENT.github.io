@@ -101,7 +101,7 @@ header .logo {
   height: 712px;
   position: fixed;
   top:100px;
-  background: url(./images/gazou55.jpg) no-repeat center top / cover;
+  background: url(https://github.com/Kuman1105/SCENT.github.io/blob/main/gazou55.jpg?raw=true) no-repeat center top / cover;
 }
 
 footer {
@@ -221,7 +221,7 @@ footer .logo {
 
 #feature .feature-image {
   width: 50%;
-  background: url(./images/gazou66.jpg) no-repeat center bottom / cover;
+  background: url(https://github.com/Kuman1105/SCENT.github.io/blob/main/gazou66.jpg?raw=true) no-repeat center bottom / cover;
 }
 
 #feature .feature-text {
@@ -347,7 +347,7 @@ footer .logo {
   color: #fff !important;
   padding: 100px 0;
   position: relative;
-  background: url(./images/gazou55.jpg) no-repeat center center / cover;
+  background: url(https://github.com/Kuman1105/SCENT.github.io/blob/main/gazou55.jpg?raw=true) no-repeat center center / cover;
 }
 
 #reservation::after {
@@ -403,7 +403,7 @@ header .logo a {
   top: 100px;
   width: 100%;
   padding: 100px 0;
-  background: url(about/images/gazou55.jpg) no-repeat center center/cover;
+  background: url(https://github.com/Kuman1105/SCENT.github.io/blob/main/about/gazou55.jpg?) no-repeat center center/cover;
 }
 
 #about #page-title:after {
@@ -506,7 +506,7 @@ footer .icon-logo {
 }
 
 #sai .contents-blk:first-child {
-  background: url(./about/images/gazou1.jpg) no-repeat center center / cover;
+  background: url(https://github.com/Kuman1105/SCENT.github.io/blob/main/about/gazou1.jpg?raw=true) no-repeat center center / cover;
 }
 
 #sai .contents-blk:nth-child(2) {
@@ -527,7 +527,7 @@ footer .icon-logo {
 }
 
 #sai .contents-blk:last-child {
-  background: url(./about/images/gazou6.jpg) no-repeat center center / cover;
+  background: url(https://github.com/Kuman1105/SCENT.github.io/blob/main/about/gazou6.jpg?raw=true) no-repeat center center / cover;
 }
 
 header .menu-btn {
